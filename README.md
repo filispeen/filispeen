@@ -23,11 +23,11 @@ They ask:
 
 I answer:
 
-![Vergil Motivation](https://i.imgur.com/4Z7g6kp.jpeg)
+![Vergil Motivation](https://i.imgur.com/CdvY2Q4_d.webp)
 
-![Vergil Standing Proud](https://i.imgur.com/7WVBXyD.jpeg)
+![Vergil Standing Proud](https://i.imgur.com/rffwNBZ_d.webp)
 
-![Vergil Sword Draw](https://i.imgur.com/Rur60Np.jpeg)
+![Vergil Judgement cut](https://media1.tenor.com/m/dICF-ql_00AAAAAd/vergil.gif)
 
 ![Dante Cool](https://i.imgur.com/YVh2SkA.jpeg)
 
