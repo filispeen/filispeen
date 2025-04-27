@@ -25,11 +25,11 @@ I answer:
 
 ![Vergil Motivation](https://i.imgur.com/CdvY2Q4_d.webp)
 
-![Vergil Standing Proud](https://i.imgur.com/rffwNBZ_d.webp)
+![Vergil Standing Proud](https://media.tenor.com/9lgyScqfCisAAAAi/miyabi-zzz.gif)
 
-![Vergil Judgement cut](https://media1.tenor.com/m/dICF-ql_00AAAAAd/vergil.gif)
+![Vergil Judgement cut](https://github.com/filispeen/filispeen/blob/main/vergil.gif)
 
-![Dante Cool](https://i.imgur.com/YVh2SkA.jpeg)
+![Dante Cool](https://github.com/filispeen/filispeen/blob/main/dante-dmc.gif)
 
 > "Motivation is the core of all things — whether it's coding or defeating your inner demons."
 
@@ -67,6 +67,6 @@ If you want to spar in code duels or just chat about motivation:
 
 # Stay motivated.
 
-![Vergil Yamato](https://i.imgur.com/DbfUZYc.jpeg)
+![Vergil Yamato](https://media1.tenor.com/m/BdwuWO4BTg8AAAAC/dmc-dmc5.gif)
 
 ---
