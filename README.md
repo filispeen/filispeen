@@ -67,6 +67,6 @@ If you want to spar in code duels or just chat about motivation:
 
 # Stay motivated.
 
-![Vergil Yamato](https://media1.tenor.com/m/BdwuWO4BTg8AAAAC/dmc-dmc5.gif)
+![Vergil Yamato](https://github.com/filispeen/filispeen/blob/main/dmc-dmc5.gif)
 
 ---
