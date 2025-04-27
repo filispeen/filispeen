@@ -61,7 +61,7 @@ Right now, I'm sharpening my skills to:
 If you want to spar in code duels or just chat about motivation:
 
 📫 **filispeen@gmail.com**  
-💬 Or find me in the void between frames.
+💬 Or find me in the void between worlds.
 
 ---
 
