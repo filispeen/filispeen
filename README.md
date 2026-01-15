@@ -70,3 +70,5 @@ If you want to spar in code duels or just chat about motivation:
 ![Vergil Yamato](https://github.com/filispeen/filispeen/blob/main/dmc-dmc5.gif)
 
 ---
+
+[![Filispeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=filispeen)](https://github.com/anuraghazra/github-readme-stats)
