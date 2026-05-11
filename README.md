@@ -1,74 +1,42 @@
-# Welcome to filispeen's realm 🗡️
+# Hi, I'm filispeen
 
-> **"Might controls everything."** — Vergil
+Backend developer in training. I spend most of my time on the server side — APIs, databases, and the logic no one sees.
 
----
-
-## About me
-
-I'm just a guy standing in front of a keyboard, asking it to code itself.
-
-Sometimes I write code that **works**.
-Sometimes I write code that **motivates** me to work harder next time.
-
-Either way...  
-**POWER IS EVERYTHING.**
+![Profile views](https://komarev.com/ghpvc/?username=filispeen&color=grey&style=flat)
 
 ---
 
-## Motivation? Motivation.
+## About
 
-They ask:  
-**"Where do you get your motivation?"**
-
-I answer:
-
-![Vergil Motivation](https://i.imgur.com/CdvY2Q4_d.webp)
-
-![Vergil Standing Proud](https://media.tenor.com/9lgyScqfCisAAAAi/miyabi-zzz.gif)
-
-![Vergil Judgement cut](https://github.com/filispeen/filispeen/blob/main/vergil.gif)
-
-![Dante Cool](https://github.com/filispeen/filispeen/blob/main/dante-dmc.gif)
-
-> "Motivation is the core of all things — whether it's coding or defeating your inner demons."
+- Student learning backend development from the ground up
+- Interested in how systems talk to each other
+- Writing code, breaking it, fixing it, repeating
 
 ---
 
-## Skills
+## What I work with
 
-- Summoning Swords (metaphorically) 🌀
-- Solving problems with style ⚔️
-- Writing code like it's a boss fight 🎮
-- Refactoring like it's a rematch 🛠️
-
----
-
-## Current Goal
-
-> **"If you want it, then you'll have to take it."**
-
-Right now, I'm sharpening my skills to:
-
-- Build cooler, faster, stronger projects
-- Get *infinite combos* in development
-- Reach **SSStylish** coding levels
+- **Backend:** building and learning as I go
+- **Focus areas:** APIs, databases, server-side logic
+- **Currently exploring:** backend architecture, clean code principles
 
 ---
 
-## Contact me
+## Stats
+ 
+<a href="https://github.com/filispeen">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=filispeen&show_icons=true&hide_border=true&include_all_commits=true&theme=default" />
+</a>
+<a href="https://github.com/filispeen">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=filispeen&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+</a>
 
-If you want to spar in code duels or just chat about motivation:
-
-📫 **filispeen@gmail.com**  
-💬 Or find me in the void between worlds.
+---
+ 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=filispeen&hide_border=true)](https://github.com/filispeen)
 
 ---
 
-# Stay motivated.
+## Contact
 
-![Vergil Yamato](https://github.com/filispeen/filispeen/blob/main/dmc-dmc5.gif)
-
----
-
-[![Filispeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=filispeen)](https://github.com/anuraghazra/github-readme-stats)
+Open to connecting with other developers. Find me here on GitHub.
