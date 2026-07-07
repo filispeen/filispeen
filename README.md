@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans+VF&size=28&duration=1500&pause=250&color=F0F6FC&center=true&vCenter=true&repeat=false&width=500&lines=Hello👋;I%60m+filispeen" alt="greet" />
 
+</div>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Mona+Sans+VF&size=21&color=F0F6FC&center=true&vCenter=true&width=500&lines=Backend+developer+student;APIs+%2B+Databases+%2B+Server-side+logic;Building%2C+breaking%2C+fixing%2C+repeating" alt="some stuff" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=filispeen&color=58A6FF&style=flat-square)
