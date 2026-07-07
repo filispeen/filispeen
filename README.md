@@ -1,24 +1,27 @@
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Mona+Sans+VF&size=28&duration=1500&pause=250&color=F0F6FC&center=true&vCenter=true&repeat=false&width=500&lines=Hello👋;I%60m+filispeen" alt="Typing SVG" />
 
-# Hi, I'm filispeen 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+developer+in+training;APIs+%2B+Databases+%2B+Server-side+logic;Building%2C+breaking%2C+fixing%2C+repeating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Mona+Sans+VF&size=21&color=F0F6FC&center=true&vCenter=true&width=500&lines=Backend+developer+student;APIs+%2B+Databases+%2B+Server-side+logic;Building%2C+breaking%2C+fixing%2C+repeating" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=filispeen&color=58A6FF&style=flat-square)
 
-</div>
+---
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alejagalesa-mount-fuji.jpg" />
 
 ---
+</div>
 
 ## About
 
 - Student learning backend development from the ground up
-- Interested in how systems talk to each other
+- Making code work even if it don't want to
 - Writing code, breaking it, fixing it, repeating
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -26,6 +29,8 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 
 **Focus areas:** APIs, databases, server-side logic
 **Currently exploring:** backend architecture, clean code principles
@@ -38,18 +43,18 @@
 <tr>
 <td width="50%">
 
-### [Project Name](https://github.com/filispeen/repo)
-Short description of what it does and what you learned building it.
+### [Lavalink.lua](https://github.com/filispeen/lavalink.lua)
+Lua client for Lavalink, built for Discordia music bots. Lightweight Node.js alternative with lower RAM usage. 
 
-`Node.js` `SQLite` `Docker`
+`lua` `luvit` 
 
 </td>
 <td width="50%">
 
-### [Project Name 2](https://github.com/filispeen/repo2)
-Short description of what it does and what you learned building it.
+### [CodersMCP](https://github.com/filispeen/CodersMCP)
+MCP server that can be installed as extension for Claude Desktop, to make free vibe-coding a lot easier.
 
-`JavaScript` `WebSocket`
+`JavaScript` `Node.JS`
 
 </td>
 </tr>
@@ -92,12 +97,11 @@ Short description of what it does and what you learned building it.
 
 ---
 
-## Contact
+<!--## Contact
 
 <div align="center">
 
-<!-- add real links below, replace # -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
-</div>
+</div>-->
