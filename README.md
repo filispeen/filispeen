@@ -20,7 +20,6 @@
 - Making code work even if it don't want to
 - Writing code, breaking it, fixing it, repeating
 
----
 
 ## Tech Stack
 
@@ -37,8 +36,6 @@
 
 **Focus areas:** APIs, databases, server-side logic
 **Currently exploring:** backend architecture, clean code principles
-
----
 
 ## Featured Projects
 
@@ -63,32 +60,18 @@ MCP server that can be installed as extension for Claude Desktop, to make free v
 </tr>
 </table>
 
----
-
 ## Stats
 
 <div align="center">
 
 <img height=200 src="https://github-readme-stats-fast.vercel.app/api?username=filispeen&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
 <img height=200 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=filispeen&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" />
-
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=filispeen&hide_border=true&theme=tokyonight)](https://github.com/filispeen)
-
-![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=filispeen&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
+<img height=200 src="https://github-readme-stats-fast.vercel.app/api/streak?username=filispeen&hide_border=true&theme=tokyonight" />
+<img height=200 src="https://trophygithubreadmelang.cybee.dpdns.org/?username=filispeen&theme=tokyonight&no-frame=true&row=1&column=-1" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=filispeen&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
----
 
 ## Contribution Snake
 
@@ -97,8 +80,6 @@ MCP server that can be installed as extension for Claude Desktop, to make free v
 <img src="https://raw.githubusercontent.com/filispeen/filispeen/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
----
 
 <!--## Contact
 
