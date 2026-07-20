@@ -34,7 +34,8 @@
 
 </div>
 
-**Focus areas:** APIs, databases, server-side logic
+**Focusing on:** APIs, databases, server-side logic
+
 **Currently exploring:** backend architecture, clean code principles
 
 ## Featured Projects
@@ -46,7 +47,7 @@
 ### [Lavalink.lua](https://github.com/filispeen/lavalink.lua)
 Lua client for Lavalink, built for Discordia music bots. Lightweight Node.js alternative with lower RAM usage. 
 
-`lua` `luvit` 
+`Lua` `Luvit`
 
 </td>
 <td width="50%">
@@ -55,6 +56,25 @@ Lua client for Lavalink, built for Discordia music bots. Lightweight Node.js alt
 MCP server that can be installed as extension for Claude Desktop, to make free vibe-coding a lot easier.
 
 `JavaScript` `Node.JS`
+
+</td>
+</tr>
+<tr>
+
+<td width="50%">
+
+### [Discord.lua](https://github.com/filispeen/discord.lua)
+Discord API wrapper written in Lua for the Luvit runtime
+
+`Lua` `Luvit`
+
+</td>
+<td width="50%">
+
+### [Lauffy](https://github.com/filispeen/lauffy) (Currently private)
+Discord music bot written in Lua using [Discord.lua](https://github.com/filispeen/discord.lua) library
+
+`Lua` `Luvit`
 
 </td>
 </tr>
