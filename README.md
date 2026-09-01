@@ -71,7 +71,7 @@ Discord API wrapper written in Lua for the Luvit runtime
 </td>
 <td width="50%">
 
-### [Lauffy](https://github.com/filispeen/lauffy) (Currently private)
+### [Lauffy](https://github.com/filispeen/lauffy)
 Discord music bot written in Lua using [Discord.lua](https://github.com/filispeen/discord.lua) library
 
 `Lua` `Luvit`
